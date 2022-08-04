@@ -1,0 +1,109 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Jan 17, 2022, 8:12:21 PM
+    Author     : Admin
+*/
+body
+{
+        margin: 0px !important;
+        padding: 0px !important;
+        font-family: arial;
+        background-color: #ebebeb;
+}
+.head {
+        display: flex;
+        text-decoration: none;
+        padding-top: 5px;
+        padding-bottom: 5px;
+        width: 100%;
+        height: 60px;
+        background-color: white;
+}
+
+.head1{
+        width: 80%;
+        margin:0px auto;
+        display: flex;
+}
+
+.nhap{
+
+        width: 400px;
+        height: 35px;
+        border: solid 1px gray;
+        border-radius: 50px;
+        margin-left: 70px;
+        background-color: white;
+        display: flex;
+}
+
+.nhap1 input{
+        margin-left: 20px;
+        height: 25px;
+        width: 350px;
+        margin-top: 3px;
+        border: none;
+        outline: none;
+        background-color: white;
+        padding-top: 3px;
+}
+
+.content{
+        width: 100%;
+        background-color: blue;
+        height: 40px;
+        margin-top: 3px;
+        display: flex;
+}
+
+.content1{
+        margin-left: 120px;
+        padding-top: 10px;		
+}
+
+.main
+{
+        width: 100%;
+        margin: 0px auto;
+        padding-top: 3px;
+}
+
+.row{
+        width: 90%;
+        margin: 0px auto;
+        display: flex;
+}
+
+.mang{
+        width: 16%;
+        margin: 10px;
+}
+.mang a {
+        text-decoration: none;
+        color: black;
+        text-align: center;
+}
+
+.mang img {
+        height: 250px;
+}
+.load a{
+    border: 10px;
+    color: red;
+    padding-left: 20px;
+    text-align: center;
+}
+
+footer{
+    background-color: darkgrey;
+    color: aqua;
+    font-size: 20px;
+    padding: 10px;
+    text-align: center;
+    margin-top: 10%;
+}
+
